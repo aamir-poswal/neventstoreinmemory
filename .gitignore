@@ -1,0 +1,5 @@
+/packages
+/.vs
+/TestNEventStore1/App_Readme
+/TestNEventStore1/bin
+/TestNEventStore1/obj
